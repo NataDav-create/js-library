@@ -1,2 +1,2 @@
 import './lib/lib';
-$('.active').toggle();
+$('.active').toggleClass('hello');
